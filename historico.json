@@ -1,0 +1,42 @@
+[
+    {
+        "data": "2023-07-18",
+        "valor": 25.0,
+        "rendimento": 0.0
+    },
+    {
+        "data": "2023-09-19",
+        "valor": 27.16,
+        "rendimento": 2.16
+    },
+    {
+        "data": "2023-09-20",
+        "valor": 29.32,
+        "rendimento": 2.16
+    },
+    {
+        "data": "2023-09-21",
+        "valor": 31.51,
+        "rendimento": 2.19
+    },
+    {
+        "data": "2023-09-22",
+        "valor": 33.71,
+        "rendimento": 2.20
+    },
+    {
+        "data": "2023-09-23",
+        "valor": 36.01,
+        "rendimento": 2.30
+    },
+    {
+        "data": "2023-09-24",
+        "valor": 38.36,
+        "rendimento": 2.35
+    },
+    {
+        "data": "2023-09-25",
+        "valor": 40.75,
+        "rendimento": 2.39
+    }
+]
