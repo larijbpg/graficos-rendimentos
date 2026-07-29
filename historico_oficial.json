@@ -1,0 +1,52 @@
+[
+    {
+        "data": "2026-07-18",
+        "valor": 25.9,
+        "rendimento": 0.0
+    },
+    {
+        "data": "2026-07-19",
+        "valor": 28.06,
+        "rendimento": 2.16
+    },
+    {
+        "data": "2026-07-20",
+        "valor": 30.2,
+        "rendimento": 2.14
+    },
+    {
+        "data": "2026-07-21",
+        "valor": 32.36,
+        "rendimento": 2.16
+    },
+    {
+        "data": "2026-07-22",
+        "valor": 34.55,
+        "rendimento": 2.19
+    },
+    {
+        "data": "2026-07-23",
+        "valor": 36.71,
+        "rendimento": 2.16
+    },
+    {
+        "data": "2026-07-24",
+        "valor": 38.92,
+        "rendimento": 2.21
+    },
+    {
+        "data": "2026-07-25",
+        "valor": 41.06,
+        "rendimento": 2.14
+    },
+    {
+        "data": "2026-07-28",
+        "valor": 43.2,
+        "rendimento": 2.14
+    },
+    {
+        "data": "2026-07-29",
+        "valor": 45.41,
+        "rendimento": 2.21
+    }
+]
